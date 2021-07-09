@@ -1,0 +1,8 @@
+add方法有异常
+异常的名称：ArithmeticException
+异常的信息：null
+==============================
+sub方法有异常
+异常的名称：NullPointerException
+异常的信息：null
+==============================
