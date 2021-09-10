@@ -3,7 +3,7 @@ package com.reflect;
 import java.lang.reflect.Method;
 
 /*
-           通过反射机制来调用方法：
+           通过反射机制来调用方法：META-INF.services
 
  */
 public class ReflectDemo11 {

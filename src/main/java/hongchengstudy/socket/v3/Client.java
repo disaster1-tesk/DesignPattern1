@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Client {
     public static void main(String[] args) throws IOException {
-        Socket socket = new Socket("192.168.20.42", 6666);
+        Socket socket = new Socket("127.0.0.1", 6666);
         //获取输出流
         OutputStream outputStream = socket.getOutputStream();
         InputStream inputStream = socket.getInputStream();
